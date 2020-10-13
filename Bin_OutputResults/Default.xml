@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<XML_Coefficient xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BS_Element ID="0">
+    <BS_Paras>
+      <AntTotalNum>8</AntTotalNum>
+    </BS_Paras>
+    <UE_Element ID="0">
+      <UE_Paras>
+        <Speed>3</Speed>
+        <AntTotalNum>4</AntTotalNum>
+        <SampleTotalNum>3232</SampleTotalNum>
+        <MaxPathNum>14</MaxPathNum>
+        <SampleRate_Hz>115.63555300202604</SampleRate_Hz>
+        <PowerFactor_Max>0.4358822094024472</PowerFactor_Max>
+        <PowerFactor_AVG>0.4735298168807339</PowerFactor_AVG>
+        <DriftingEnable>true</DriftingEnable>
+        <FilePath_Delay>\bin\CDLD_BS0_UE0_Delay.bin</FilePath_Delay>
+        <LargeScaleFadingEnable>true</LargeScaleFadingEnable>
+        <FilePath_Pathloss>\bin\CDLD_BS0_UE0_pathloss.bin</FilePath_Pathloss>
+      </UE_Paras>
+      <UE_Track SampleNum="3232">
+        <ChannelModel>
+          <Multipath Power="-0.2" DelayTime="0" />
+          <Multipath Power="-13.5" DelayTime="0" />
+          <Multipath Power="-18.8" DelayTime="3.5" />
+          <Multipath Power="-21" DelayTime="61.2" />
+          <Multipath Power="-22.8" DelayTime="136.3" />
+          <Multipath Power="-17.9" DelayTime="140.5" />
+          <Multipath Power="-20.1" DelayTime="180.4" />
+          <Multipath Power="-21.9" DelayTime="259.6" />
+          <Multipath Power="-22.9" DelayTime="177.5" />
+          <Multipath Power="-27.8" DelayTime="404.2" />
+          <Multipath Power="-23.6" DelayTime="793.7" />
+          <Multipath Power="-24.8" DelayTime="942.4" />
+          <Multipath Power="-30" DelayTime="970.8" />
+          <Multipath Power="-27.7" DelayTime="1252.5" />
+        </ChannelModel>
+      </UE_Track>
+      <UE_OutputFiles Coeff_Format="BINX">
+        <Coeff_FileList UE_Ant_Index="0">
+          <Coeff_FilePath>\bin\default_BS0_UE0_Ant0.bin</Coeff_FilePath>
+          <Coeff_CheckCode>4291089738235756430</Coeff_CheckCode>
+        </Coeff_FileList>
+        <Coeff_FileList UE_Ant_Index="1">
+          <Coeff_FilePath>\bin\default_BS0_UE0_Ant1.bin</Coeff_FilePath>
+          <Coeff_CheckCode>4526330152269128868</Coeff_CheckCode>
+        </Coeff_FileList>
+        <Coeff_FileList UE_Ant_Index="2">
+          <Coeff_FilePath>\bin\default_BS0_UE0_Ant2.bin</Coeff_FilePath>
+          <Coeff_CheckCode>4293106629101821585</Coeff_CheckCode>
+        </Coeff_FileList>
+        <Coeff_FileList UE_Ant_Index="3">
+          <Coeff_FilePath>\bin\default_BS0_UE0_Ant3.bin</Coeff_FilePath>
+          <Coeff_CheckCode>4529316073655983772</Coeff_CheckCode>
+        </Coeff_FileList>
+      </UE_OutputFiles>
+    </UE_Element>
+  </BS_Element>
+  <BS_Element ID="1">
+    <BS_Paras>
+      <AntTotalNum>8</AntTotalNum>
+    </BS_Paras>
+    <UE_Element ID="0">
+      <UE_Paras>
+        <Speed>3</Speed>
+        <AntTotalNum>4</AntTotalNum>
+        <SampleTotalNum>3232</SampleTotalNum>
+        <MaxPathNum>14</MaxPathNum>
+        <SampleRate_Hz>115.63555300202604</SampleRate_Hz>
+        <PowerFactor_Max>0.4358822094024472</PowerFactor_Max>
+        <PowerFactor_AVG>0.4735298168807339</PowerFactor_AVG>
+        <DriftingEnable>true</DriftingEnable>
+        <FilePath_Delay>\bin\CDLD_BS0_UE0_Delay.bin</FilePath_Delay>
+        <LargeScaleFadingEnable>true</LargeScaleFadingEnable>
+        <FilePath_Pathloss>\bin\CDLD_BS0_UE0_pathloss.bin</FilePath_Pathloss>
+      </UE_Paras>
+      <UE_Track SampleNum="3232">
+        <ChannelModel>
+          <Multipath Power="-0.2" DelayTime="0" />
+          <Multipath Power="-13.5" DelayTime="0" />
+          <Multipath Power="-18.8" DelayTime="3.5" />
+          <Multipath Power="-21" DelayTime="61.2" />
+          <Multipath Power="-22.8" DelayTime="136.3" />
+          <Multipath Power="-17.9" DelayTime="140.5" />
+          <Multipath Power="-20.1" DelayTime="180.4" />
+          <Multipath Power="-21.9" DelayTime="259.6" />
+          <Multipath Power="-22.9" DelayTime="177.5" />
+          <Multipath Power="-27.8" DelayTime="404.2" />
+          <Multipath Power="-23.6" DelayTime="793.7" />
+          <Multipath Power="-24.8" DelayTime="942.4" />
+          <Multipath Power="-30" DelayTime="970.8" />
+          <Multipath Power="-27.7" DelayTime="1252.5" />
+        </ChannelModel>
+      </UE_Track>
+      <UE_OutputFiles Coeff_Format="BINX">
+        <Coeff_FileList UE_Ant_Index="0">
+          <Coeff_FilePath>\bin\default_BS0_UE0_Ant0.bin</Coeff_FilePath>
+          <Coeff_CheckCode>4291089738235756430</Coeff_CheckCode>
+        </Coeff_FileList>
+        <Coeff_FileList UE_Ant_Index="1">
+          <Coeff_FilePath>\bin\default_BS0_UE0_Ant1.bin</Coeff_FilePath>
+          <Coeff_CheckCode>4526330152269128868</Coeff_CheckCode>
+        </Coeff_FileList>
+        <Coeff_FileList UE_Ant_Index="2">
+          <Coeff_FilePath>\bin\default_BS0_UE0_Ant2.bin</Coeff_FilePath>
+          <Coeff_CheckCode>4293106629101821585</Coeff_CheckCode>
+        </Coeff_FileList>
+        <Coeff_FileList UE_Ant_Index="3">
+          <Coeff_FilePath>\bin\default_BS0_UE0_Ant3.bin</Coeff_FilePath>
+          <Coeff_CheckCode>4529316073655983772</Coeff_CheckCode>
+        </Coeff_FileList>
+      </UE_OutputFiles>
+    </UE_Element>
+  </BS_Element>
+  <Global_Element>
+    <Version>6.3.0.2</Version>
+    <centerFreqMHz>2600</centerFreqMHz>
+    <Halfwavelength_SampleDensity>8</Halfwavelength_SampleDensity>
+  </Global_Element>
+</XML_Coefficient>

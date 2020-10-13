@@ -1,0 +1,2 @@
+Paramenter Name,CentralFrequence,V_km,BSPolarizationPlacement,UEPolarizationPlacement,S,U,BS_D_v_lambda,BS_D_h_lambda,UE_D_v_lambda,UE_D_h_lambda,Mp,Np,Mpu,Npu,Am,CIR_num,Channeltype,Emulator_type,Cluster_selected,KSW_cir_num_N
+Value,3500000000,10,BSCross,UEVerticalCross,8,4,0.5,0.5,0.5,0.5,1,4,1,2,1,5000,CDL_D,ksw,off,101

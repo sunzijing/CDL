@@ -1,0 +1,10 @@
+1）支持F64，KSW S02两种仪表类型。
+2）CDLChannelGenerate_SP.py为验证理论空间相关性的脚本，生成实际模型时并不需要，生成模型时关闭信道验证功能。
+
+
+
+操作步骤：1）CDL_parameters.csv文件为参数配置文件，可在参数配置文件中设置合适的参数。
+
+                2）执行主程序CDLChannelGenerate.py文件
+
+                3）在不同仪表对应的输出文件夹下获取生成的ASC，BIN文件。
