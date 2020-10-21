@@ -1,0 +1,2 @@
+Acc_km_s,M_UE,N_UE,U,UEPolarization,UE_D_h_lambda,UE_D_v_lambda,UE_slant1,UE_slant2,X_m,Y_m,Z_m,alpha_UE,beta_UE,gamma_UE,trace,v_km
+0.1,1,2,4,UECross,0.5,0.5,0,90,1000,0,0,0,0,0,line,10
