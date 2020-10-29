@@ -1,0 +1,2 @@
+Paramenter Name,X_m,Y_m,Z_m,alpha_UE,Beta_UE,Gamma_UE,U,UEPolarizationPlacement,UE_slant1,UE_slant2,M_UE,N_UE,UE_D_v_lambda,UE_D_h_lambda,V_km,Trace,Acc_km_s,V_X,V_Y,V_Z
+Value,1000,0,0,0,0,0,4,UECross,0,90,1,2,0.5,0.5,10,Static,0,0,1,0

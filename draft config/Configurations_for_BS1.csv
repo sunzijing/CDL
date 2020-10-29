@@ -1,0 +1,2 @@
+Paramenter Name,X_m,Y_m,Z_m,alpha_BS,Beta_BS,Gamma_BS,S,BSPolarizationPlacement,BS_slant1,BS_slant2,M_BS,N_BS,BS_D_v_lambda,BS_D_h_lambda,AE_Comb,Theta_downtilt
+Value,0,0,0,0,0,0,192,BSCross,45,-45,12,8,0.64,0.5,6,0
